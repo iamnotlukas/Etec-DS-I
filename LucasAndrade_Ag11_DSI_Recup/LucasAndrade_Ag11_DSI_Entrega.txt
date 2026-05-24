@@ -1,0 +1,14 @@
+Olá, professora!
+
+Segue abaixo a entrega da atividade de recuperação da Agenda 11 de Desenvolvimento de Sistemas I (DSI).
+
+Eu implementei o sistema de monitoramento de nível de reservatório de água em Python utilizando a biblioteca 'colorama' para formatação colorida das saídas no console de acordo com a gravidade de cada nível (1 a 5). O código foi estruturado com funções e comentado detalhadamente para explicar a minha linha de raciocínio.
+
+O arquivo com o script executável está anexado a este fichário sob o nome:
+LucasAndrade_Ag11_DSI_Recup.py
+
+Agradeço a atenção e fico à disposição para qualquer feedback!
+
+Atenciosamente,
+Lucas Andrade
+
